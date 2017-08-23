@@ -1,0 +1,20 @@
+{
+  "tests.py::TestAddFile::test_add_egg_file_locally": true, 
+  "tests.py::TestAddFile::test_add_file_locally": true, 
+  "tests.py::TestAddFile::test_add_py_file": true, 
+  "tests.py::TestAddFile::test_add_py_file_locally": true, 
+  "tests.py::TestCheckpoint::test_basic_checkpointing": true, 
+  "tests.py::TestCheckpoint::test_checkpoint_and_restore": true, 
+  "tests.py::TestDaemon::test_termination_sigterm": true, 
+  "tests.py::TestDaemon::test_termination_stdin": true, 
+  "tests.py::TestIO::test_stdout_redirection": true, 
+  "tests.py::TestRDDFunctions::test_cartesian_on_textfile": true, 
+  "tests.py::TestRDDFunctions::test_deleting_input_files": true, 
+  "tests.py::TestRDDFunctions::test_save_as_textfile_with_unicode": true, 
+  "tests.py::TestRDDFunctions::test_transforming_cartesian_result": true, 
+  "tests.py::TestSparkSubmit::test_module_dependency": true, 
+  "tests.py::TestSparkSubmit::test_module_dependency_on_cluster": true, 
+  "tests.py::TestSparkSubmit::test_script_with_local_functions": true, 
+  "tests.py::TestSparkSubmit::test_single_script": true, 
+  "tests.py::TestSparkSubmit::test_single_script_on_cluster": true
+}

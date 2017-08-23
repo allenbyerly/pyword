@@ -1,0 +1,2 @@
+/usr/local/Cellar/apache-spark/2.1.0/libexec/bin/pyspark: line 24: /usr/local/Cellar/apache-spark/1.4.1/bin/load-spark-env.sh: No such file or directory
+/Users/allenbsf/Code/pyword/pyword/bin/python: Import by filename is not supported.
